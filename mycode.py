@@ -1,6 +1,6 @@
 import mymodule
 print("my first line")
 print("my second line")
-print("my  most latest third line")
->>>>>>> week1-client-changes
+print("my  most latestest third line")
+print("CHANGE THE SECOND COMMIT")
 
